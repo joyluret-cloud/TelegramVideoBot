@@ -1,0 +1,13 @@
+{
+  "name": "telegram-video-bot",
+  "version": "1.0.0",
+  "description": "Bot telegramdownloader via yt-dlp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1",
+    "yt-dlp-exec": "^2.4.10"
+  }
+}
